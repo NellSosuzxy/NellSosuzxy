@@ -1,16 +1,35 @@
-## Hi there 👋
+# Journey
+Hi, I'm Danial
 
-<!--
-**NellSosuzxy/NellSosuzxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT student preparing to pursue a **Degree in Cyber Security**  
+🔐 Focused on **offensive security, ethical hacking, and penetration testing**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I'm Exploring
+
+- 🧪 **Penetration Testing Tools**
+- 📡 **WiFi & Bluetooth Attacks** 
+- 🦠 **Malware Behavior Analysis** 
+- 🔍 **Vulnerability Assessment**
+- 🖥️ Linux-based security labs & CTF-style learning
+
+---
+
+## ⚙️ Tech & Tools
+
+- **Languages:** Python, C/C++, Bash  
+- **Platforms:** Linux (Kali)  
+- **Hardware:** ESP32  
+- **Concepts:** Networking, Wireless Security, Threat Analysis
+
+---
+
+## 🚀 Goals
+
+- Improve offensive security skills  
+- Build custom security tools  
+- Contribute to open-source security projects  
+- Grow into a professional **Cyber Security Analyst / Pentester**
+
+---
