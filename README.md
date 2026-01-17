@@ -39,6 +39,14 @@ Hi, I'm Danial
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-006699?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
+## 🛠️ Security Tools & Hardware
+![Flipper Zero](https://img.shields.io/badge/Flipper-Zero-FF6F00?style=for-the-badge)
+![Bruce](https://img.shields.io/badge/Bruce-2E2E2E?style=for-the-badge)
+![Marauder](https://img.shields.io/badge/Marauder-8B0000?style=for-the-badge)
+![Wardriving](https://img.shields.io/badge/Wardriving-4B0082?style=for-the-badge)
+![Sniffer](https://img.shields.io/badge/Sniffer-006400?style=for-the-badge)
+![Deauther](https://img.shields.io/badge/Deauther-003366?style=for-the-badge)
+
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -48,13 +56,7 @@ Hi, I'm Danial
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Kali-557C94?style=for-the-badge&logo=linux&logoColor=white)
 
-## 🛠️ Security Tools & Hardware
-![Flipper Zero](https://img.shields.io/badge/Flipper-Zero-FF6F00?style=for-the-badge)
-![Bruce](https://img.shields.io/badge/Bruce-2E2E2E?style=for-the-badge)
-![Marauder](https://img.shields.io/badge/Marauder-8B0000?style=for-the-badge)
-![Wardriving](https://img.shields.io/badge/Wardriving-4B0082?style=for-the-badge)
-![Sniffer](https://img.shields.io/badge/Sniffer-006400?style=for-the-badge)
-![Deauther](https://img.shields.io/badge/Deauther-003366?style=for-the-badge)
+
 
 
 ---
