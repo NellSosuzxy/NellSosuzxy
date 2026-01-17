@@ -11,7 +11,7 @@ Hi, I'm Danial
 - Penetration Testing & Vulnerability Assessment
 - Wireless (WiFi/Bluetooth) Security Research
 - Malware Behavior & Threat Analysis
-- Linux-based Security Labs & CTF Practice
+- Linux-based Security Labs 
   
 ---
 
