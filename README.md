@@ -1,12 +1,10 @@
 # Journey
-Hi, I'm Danial
-
-🎓 IT student preparing to pursue a **Degree in Cyber Security**  
-🔐 Focused on **offensive security, ethical hacking, and penetration testing**
-
+Hi, I’m Danial
+🎓 IT student with interest in Cybersecurity
+🔐 Exploring offensive security, vulnerability assessment, and security fundamentals
 ---
 
-## 🧭 Current Focus
+## 🧭 Areas of exploration
 
 - Penetration Testing & Vulnerability Assessment
 - Wireless (WiFi/Bluetooth) Security Research
@@ -16,12 +14,10 @@ Hi, I'm Danial
 ---
 
 ## 🚀 Goals
-
-- Improve offensive security skills  
-- Build custom security tools  
-- Contribute to open-source security projects  
-- Grow into a professional **Cyber Security Analyst / Pentester**
-
+- Build strong foundational and practical cybersecurity skills
+- Focus on learning offensive security techniques responsibly
+- Develop hands-on experience through security labs and small projects
+- Progress towards a career in cybersecurity analysis or penetration testing
 ---
 
 ## ⚙️ Platform & Environment
