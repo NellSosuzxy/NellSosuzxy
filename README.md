@@ -1,10 +1,10 @@
 # Journey
 Hi, I’m Danial
-🎓 IT student with interest in Cybersecurity
-🔐 Exploring offensive security, vulnerability assessment, and security fundamentals
+ IT student with interest in Cybersecurity
+ Exploring offensive security, vulnerability assessment, and security fundamentals
 ---
 
-## 🧭 Areas of exploration
+##  Areas of exploration
 
 - Penetration Testing & Vulnerability Assessment
 - Wireless (WiFi/Bluetooth) Security Research
@@ -13,29 +13,29 @@ Hi, I’m Danial
   
 ---
 
-## 🚀 Goals
+## Goals
 - Build strong foundational and practical cybersecurity skills
 - Focus on learning offensive security techniques responsibly
 - Develop hands-on experience through security labs and small projects
 - Progress towards a career in cybersecurity analysis or penetration testing
 ---
 
-## ⚙️ Platform & Environment
+## Platform & Environment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)                                                    
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🧪 Pentesting & Security
+## Pentesting & Security
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
-## 🌐 Web & Network
+## Web & Network
 ![HTTP](https://img.shields.io/badge/HTTP%2FHTTPS-005571?style=for-the-badge)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-006699?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-## 🛠️ Security Tools & Hardware
+## Security Tools & Hardware
 ![Flipper Zero](https://img.shields.io/badge/Flipper-Zero-FF6F00?style=for-the-badge)
 ![Bruce](https://img.shields.io/badge/Bruce-2E2E2E?style=for-the-badge)
 ![Marauder](https://img.shields.io/badge/Marauder-8B0000?style=for-the-badge)
@@ -43,7 +43,7 @@ Hi, I’m Danial
 ![Sniffer](https://img.shields.io/badge/Sniffer-006400?style=for-the-badge)
 ![Deauther](https://img.shields.io/badge/Deauther-003366?style=for-the-badge)
 
-## 💻 Tech Stack
+## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
