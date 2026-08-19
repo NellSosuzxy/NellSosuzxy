@@ -1,60 +1,93 @@
-# Journey
-Hi, I’m Danial
- IT student with interest in Cybersecurity
- Exploring offensive security, vulnerability assessment, and security fundamentals
----
+<div align="center">
 
-##  Areas of exploration
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=00F0FF&center=true&vCenter=true&width=600&height=60&lines=%24+whoami;Danial+Sinclaire+%E2%80%94+NellSosuzxy;SecurityFocus+%7CNetworking+%7C+Web-Dev" alt="typing header" />
 
-- Penetration Testing & Vulnerability Assessment
-- Wireless (WiFi/Bluetooth) Security Research
-- Malware Behavior & Threat Analysis
-- Linux-based Security Labs 
-  
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-0A0E14?style=flat-square&logo=linux&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/Bash_/_CLI-0A0E14?style=flat-square&logo=gnubash&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/VS_Code-0A0E14?style=flat-square&logo=visualstudiocode&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/Git-0A0E14?style=flat-square&logo=git&logoColor=00F0FF" />
+</p>
 
-## Goals
-- Build strong foundational and practical cybersecurity skills
-- Focus on learning offensive security techniques responsibly
-- Develop hands-on experience through security labs and small projects
-- Progress towards a career in cybersecurity analysis or penetration testing
----
+</div>
 
-## Platform & Environment
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)                                                    
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+```console
+NellSosuzxy@workstation ~> cat about.txt
 
-## Pentesting & Security
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+  Diploma in Information Technology student @ Kolej Poly-Tech MARA (2024 - Present)
+  Transitioning into Cybersecurity & IT Infrastructure with a strong focus on systems administration & network defense.
+  Pragmatic, detail-oriented, and systemic — building reliable infrastructure and learning how to protect it.
 
-## Web & Network
-![HTTP](https://img.shields.io/badge/HTTP%2FHTTPS-005571?style=for-the-badge)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-006699?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+NellSosuzxy@workstation ~> ls ~/projects
 
-## Security Tools & Hardware
-![Flipper Zero](https://img.shields.io/badge/Flipper-Zero-FF6F00?style=for-the-badge)
-![Bruce](https://img.shields.io/badge/Bruce-2E2E2E?style=for-the-badge)
-![Marauder](https://img.shields.io/badge/Marauder-8B0000?style=for-the-badge)
-![Wardriving](https://img.shields.io/badge/Wardriving-4B0082?style=for-the-badge)
-![Sniffer](https://img.shields.io/badge/Sniffer-006400?style=for-the-badge)
-![Deauther](https://img.shields.io/badge/Deauther-003366?style=for-the-badge)
+  Hafiz-Travel-Tours/                    Laravel 11 + Blade + Tailwind ERP/CRM, booking engine & client portal
+  OverclockHUB/                          PHP + MySQL e-commerce system for hardware enthusiasts
+  SuaraRakyat/                           Android app (Kotlin + XML) for transparent community issue reporting
+  StudentAttendance-CourseManagement/    Node.js + Express REST API for student attendance and course logging
+  MyRepairFix/                           Full-stack device diagnosis and service repair booking system
+  ESP32SmartWeatherStation/              IoT room monitor & smart weather station (C++ / ESP32)
+  nellsosuzxy.github.io/                 Retro cyberpunk & terminal portfolio website
 
-## Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Kali-557C94?style=for-the-badge&logo=linux&logoColor=white)
+  live: nellsosuzxy.github.io  (portfolio)
+        hafiztravel.com        (production travel portal)
+
+NellSosuzxy@workstation ~> cat clearance.txt
+
+  Security Clearance & Certifications:
+  [✔] Cisco NetAcad — Cybersecurity Essentials (Credly Verified)
+  [✔] Cisco NetAcad — IT Essentials: PC Hardware and Software (Credly Verified)
+
+NellSosuzxy@workstation ~> echo $STACK
+
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Laravel-0A0E14?style=for-the-badge&logo=laravel&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/Node.js-0A0E14?style=for-the-badge&logo=nodedotjs&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/Express.js-0A0E14?style=for-the-badge&logo=express&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/TailwindCSS-0A0E14?style=for-the-badge&logo=tailwindcss&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/Android-0A0E14?style=for-the-badge&logo=android&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/Firebase-0A0E14?style=for-the-badge&logo=firebase&logoColor=00F0FF" />
+<br>
+<img src="https://img.shields.io/badge/PHP-0A0E14?style=for-the-badge&logo=php&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/JavaScript-0A0E14?style=for-the-badge&logo=javascript&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/Kotlin-0A0E14?style=for-the-badge&logo=kotlin&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/C++-0A0E14?style=for-the-badge&logo=cplusplus&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/MySQL-0A0E14?style=for-the-badge&logo=mysql&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/Linux-0A0E14?style=for-the-badge&logo=linux&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/Git-0A0E14?style=for-the-badge&logo=git&logoColor=00FF66" />
+<img src="https://img.shields.io/badge/Postman-0A0E14?style=for-the-badge&logo=postman&logoColor=00FF66" />
+<br>
+<img src="https://img.shields.io/badge/GitHub-0A0E14?style=for-the-badge&logo=github&logoColor=00F0FF" />
+
+<br><br>
+
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=NellSosuzxy&hide_border=true&bg_color=00000000&title_color=00F0FF&icon_color=00FF66&text_color=C9C9D9&show_icons=true" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=NellSosuzxy&hide_border=true&bg_color=00000000&title_color=00F0FF&text_color=C9C9D9&layout=compact&langs_count=6" />
+
+<br>
 
 
 
+</div>
 
----
+```console
+NellSosuzxy@workstation ~> cat contact.txt
+```
 
-## ⚠️ *Educational & ethical purposes only*
+<div align="center">
+
+<a href="mailto:danialhalim6969@gmail.com"><img src="https://img.shields.io/badge/Email-0A0E14?style=for-the-badge&logo=gmail&logoColor=00FF66" /></a>
+<a href="https://www.linkedin.com/in/danial-halim-3a1983393/"><img src="https://img.shields.io/badge/LinkedIn-0A0E14?style=for-the-badge&logo=linkedin&logoColor=00F0FF" /></a>
+<a href="https://nellsosuzxy.github.io/"><img src="https://img.shields.io/badge/Portfolio-0A0E14?style=for-the-badge&logo=firefox&logoColor=00FF66" /></a>
+<a href="https://github.com/NellSosuzxy"><img src="https://img.shields.io/badge/GitHub-0A0E14?style=for-the-badge&logo=github&logoColor=00F0FF" /></a>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syamxm/syamxm/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/syamxm/syamxm/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
