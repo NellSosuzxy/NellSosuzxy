@@ -14,9 +14,9 @@
 ```console
 NellSosuzxy@workstation ~> cat about.txt
 
-  Diploma in Information Technology student @ Kolej Poly-Tech MARA (2024 - Present)
-  Transitioning into Cybersecurity & IT Infrastructure with a strong focus on systems administration & network defense.
-  Pragmatic, detail-oriented, and systemic — building reliable infrastructure and learning how to protect it.
+Hi, I’m Danial, an Information Technology student with a growing interest in Cybersecurity. My journey started with web development during my diploma, where I was introduced to programming, networking, Linux, and various areas of IT. As I learned more, I became increasingly curious about how systems actually work behind the scenes and how they can be secured.
+Currently, I’m focusing on strengthening my fundamentals in networking, Linux, Bash, Python, C/C++, and cybersecurity while exploring areas such as reverse engineering, CTFs, and security research. I’m particularly interested in understanding the logic and mechanisms behind security tools and techniques rather than simply knowing how to use them.
+My goal is to continuously build deeper technical knowledge and eventually pursue a career in cybersecurity, whether in penetration testing, security analysis, SOC, or other areas of information security.
 
 NellSosuzxy@workstation ~> ls ~/projects
 
