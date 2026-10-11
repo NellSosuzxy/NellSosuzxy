@@ -34,7 +34,6 @@ NellSosuzxy@workstation ~> ls ~/projects
   nellsosuzxy.github.io/                 Retro cyberpunk & terminal portfolio website
 
   live: nellsosuzxy.github.io  (portfolio)
-        hafiztravel.com        (production travel portal)
 
 NellSosuzxy@workstation ~> cat clearance.txt
 
